@@ -113,5 +113,5 @@ All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options
 ## Styling
 All files have been written in the Betty Style.
 
-## Authors
+## Author
 **Terdoofan Agber** 
